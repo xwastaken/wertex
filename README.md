@@ -1,2 +1,2 @@
 # wertex
-wertex software written in php
+wertex (only experimental) software written in php
